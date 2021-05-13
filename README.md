@@ -6,8 +6,8 @@ Helper.java - Ignore this, makes it easier to request user input for different j
 test.java - Ignore this
 
 ----------------------------------
-
 FlightScheduler.java Functions:
+----------------------------------
 
 Login Menu() - login
 
